@@ -1,0 +1,17 @@
+body {
+    color: red;
+}
+
+.titulo{
+    color: green;
+}
+
+#titulo2{
+    color: blue;
+}
+
+.group {
+    color: blueviolet;
+    line-height: 1.5em;
+}
+
